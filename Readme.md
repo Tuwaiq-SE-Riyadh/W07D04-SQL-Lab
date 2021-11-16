@@ -4,16 +4,16 @@ Answer the following questions:
 
 1. Write the SQL code to create a table called Student. The table structure is summarised in the table below (Note that STU_NUM is the primary key):
 
-<img src="table.png"/>
+<img src="table.png" width="80%"/>
 
 2. After you have created the table in question 1, write the SQL code to enter the first two rows of the table as below:
 
-<img src="info.png"/>
+<img src="info.png" width="80%"/>
 
 3. Assuming all the data in the Student table has been entered as shown below, write the SQL code that will list all attributes for a COURSE_CODE of 305.
 
-<img src="All1.png"/>
-<img src="All2.png"/>
+<img src="All1.png" width="80%"/>
+<img src="All2.png" width="80%"/>
 
 4.  Write the SQL code to change the course code to 304 for the person whose student number is 07.
 
